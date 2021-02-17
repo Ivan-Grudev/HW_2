@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613589121 source:c:\users\user\documents\семестр 4\прога\my_hw_for_dmitriy_igorevich\hw_2\задача 1\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+
